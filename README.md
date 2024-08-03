@@ -5,12 +5,12 @@ control systems and orbit design, Driven to leverage technical expertise to deve
 social and environmental challenges.Eager to contribute to the space industry and apply engineering principles to improve quality of life.
 
 #Skills:
-c programming 
-embedded c
-avr interfacing
-Matlab
-simulink
-solidworks
+c programming ,
+embedded c,
+avr interfacing,
+Matlab,
+simulink,
+solidworks,
 digital control 
 
 Get in touch:
